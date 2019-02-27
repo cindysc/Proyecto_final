@@ -1,10 +1,11 @@
 # Proyecto_final
-Proyecto Final Front End
+*Proyecto Final Front End*
 
-Existe poca difusión de talleres que se imparten, solo durante el verano es posible enterarse de varias actividades pero durante el año sólo si se está inmerso en este medio es posible recibir información sobre estos.
+Existe poca difusión de talleres que se imparten en cada zona y solo durante el verano es posible enterarse de varias actividades que se desarrollan, este sitio propone dar un espacio para dar a conocer los cursos y talleres relacionados con las manualidades.
+
+Diferenciando cada actividad por su temática y tener la posibilidad de buscar los cursos que se encuentren más cerca a su zona.
 
 
-descripción de la solución y las instrucciones para el despliegue del proyecto
 ##Wordpress
 
 *base de datos:* proyecto_academia
@@ -18,7 +19,8 @@ ac_user
 3ncu3n1r4_tu_4r73
 
 
-usuario “fev1csan_ac_user” a la base de datos “fev1csan_dl_academia
+usuario fev1csan_ac_user” a la
+base de datos “fev1csan_dl_academia
 
 
 wordpress deploy
