@@ -1,6 +1,9 @@
 # Proyecto_final
 Proyecto Final Front End
 
+Existe poca difusión de talleres que se imparten, solo durante el verano es posible enterarse de varias actividades pero durante el año sólo si se está inmerso en este medio es posible recibir información sobre estos.
+
+
 descripción de la solución y las instrucciones para el despliegue del proyecto
 ##Wordpress
 
