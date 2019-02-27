@@ -8,8 +8,8 @@ Diferenciando cada actividad por su temática y tener la posibilidad de buscar l
 
 ### Wordpress
 
-*Link:* http://186.64.118.50/~fev1csanhueza/
-*Usuario:* user_academia
-*Clave:* 3ncu3n1r4_tu_4r73
+* *Link:* http://186.64.118.50/~fev1csanhueza/
+* *Usuario:* user_academia
+* *Clave:* 3ncu3n1r4_tu_4r73
 
-*link a video* https://youtu.be/1IzGW-VMtxo
+* *link a video* https://youtu.be/1IzGW-VMtxo
